@@ -28,3 +28,6 @@ mySubmit.onclick = function () {
         myResult.textContent = 'You are either not born, or WAY too old'
     }
 }
+
+
+//
